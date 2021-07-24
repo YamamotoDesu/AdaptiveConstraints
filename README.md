@@ -11,11 +11,15 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 - Xcode Version 12.4 (12D4e)
 - Swift 5
 
-## How to Add Adaptive constraints to support a Universal App. 
-### Vertical Image
+## Vertical Image
 <img src="https://user-images.githubusercontent.com/47273077/126859753-5640b316-a596-44a3-87b7-6766307cdda6.png" width="300">
 
-### Horizontal Image
+## Horizontal Image
 <img src="https://user-images.githubusercontent.com/47273077/126859969-ebb6c07c-c70a-456b-9be4-7f51c141de2e.png" width="600">
+
+### How to Add Adaptive constraints to support a Universal App. 
+<img src="https://user-images.githubusercontent.com/47273077/126860203-b5c64864-aee3-4576-944d-7dd0b137b215.png" width="800">
+<img src="https://user-images.githubusercontent.com/47273077/126860353-e24977fd-8101-48a3-bd5e-bba81eb008ae.png" width="800">
+
 
 
